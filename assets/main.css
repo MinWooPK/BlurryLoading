@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {display: flex;
+    align-items: center;
+    background-color: #FBFBFB;
+    justify-content: center;}
+    
+
+.bg {
+    background: url(https://digitalsynopsis.com/wp-content/uploads/2015/03/web-designer-developer-jokes-humour-funny-2.jpg) center no-repeat;
+    width: 100vw;
+    height: 100vh;
+    /* filter : blur(50px)  desenfoque */
+    
+    
+}
+
+
+.loading-text {
+    color: red;
+    font-size: 40px;
+    position: relative;
+    right: 50%;
+}
+
